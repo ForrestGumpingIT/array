@@ -1,0 +1,31 @@
+html {
+   min-height: 100%;
+background-image: url("images/beach.jpg");
+background-size:100%;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size:70px;
+  font-family:Snell Roundhand;
+}
+h2 {
+	color: black;
+	text-align: center;
+	
+}
+
+.cocktailList{
+	text-align:center;
+	font-size:45px;
+}
+
+.menu{
+	text-align:left;
+}
+.main{
+	text-align:center;
+	font-size:45px;
+	text-color:red;
+}
